@@ -44,8 +44,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3db035f91d0291e488675bd7176ae891, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TestGameObject1: {fileID: 0}
-  TestTexture1: {fileID: 0}
+  TestGameObject1: {fileID: 2088277694224331457, guid: 0bba78ca270626e4ba4b961f9c6e02ff, type: 3}
+  TestTexture1: {fileID: 2800000, guid: d9684ee217b977742ac2a2f0b29a1d15, type: 3}
 --- !u!1 &6341488356809926775
 GameObject:
   m_ObjectHideFlags: 0
@@ -89,5 +89,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 750dd3c761bc4834e8c289d43286dee4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TestGameObject2: {fileID: 0}
-  TestTexture2: {fileID: 0}
+  TestGameObject2: {fileID: 2088277694224331457, guid: 0bba78ca270626e4ba4b961f9c6e02ff, type: 3}
+  TestTexture2: {fileID: 2800000, guid: d9684ee217b977742ac2a2f0b29a1d15, type: 3}
